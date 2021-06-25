@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Machine Learning
+author: Jeevan Bastol
+email: jbastol000@citymail.cuny.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Machine learning is one of the most interesting branches of computer science. Machine learning is a reletavely new field and a lot 
+  of advaces will be made in future
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: https://www.instagram.com/jeevan_bastola_/
+github_username:  github.com/Jeevan986
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
